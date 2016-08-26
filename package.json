@@ -1,7 +1,7 @@
 {
   "name": "bm-cli-tools",
   "main": "./lib/bm-cli-tools",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The (unofficial) BlinkMobile CLI tools plugin for Atom",
   "keywords": [
     "blink",
