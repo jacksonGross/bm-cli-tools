@@ -1,0 +1,24 @@
+{
+  "name": "bm-cli-tools",
+  "main": "./lib/bm-cli-tools",
+  "version": "0.0.0",
+  "description": "The (unofficial) BlinkMobile CLI tools plugin for Atom",
+  "keywords": [
+    "blink",
+    "blinkmobile",
+    "cli",
+    "bm",
+    "bpm"
+  ],
+  "repository": "https://github.com/jacksonGross/bm-cli-tools",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "@blinkmobile/cli": "1.1.3",
+    "@blinkmobile/bmp-cli": "1.0.1",
+    "loophole": "*",
+    "underscore-plus": "*"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Blink CLI Tools",
+          "submenu": [
+            {
+              "label": "Set scope",
+              "command": "bm-cli-tools:scope"
+            },
+            {
+              "label": "Login",
+              "command": "bm-cli-tools:login"
+            },
+            {
+              "label": "Logout",
+              "command": "bm-cli-tools:logout"
+            },
+            {
+              "label": "Deploy",
+              "command": "bm-cli-tools:deploy"
+            },
+            {
+              "label": "Pull",
+              "command": "bm-cli-tools:pull"
+            },
+            {
+              "label": "Create interaction",
+              "command": "bm-cli-tools:createInteraction"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

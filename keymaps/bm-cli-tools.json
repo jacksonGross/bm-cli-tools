@@ -1,0 +1,8 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "bm-cli-tools:toggle",
+    "ctrl-alt-d": "bm-cli-tools:deploy",
+    "ctrl-alt-p": "bm-cli-tools:pull",
+    "ctrl-alt-i": "bm-cli-tools:createInteraction"
+  }
+}
